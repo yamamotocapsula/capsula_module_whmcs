@@ -55,5 +55,5 @@ Feita as traduções do modulo e atualizado algumas funções prar o PHP 7.2
 
 Funções podendo melhorar o empenho do módulo dentro do WHMCS
 
-* [ Site ](https://capsula.com.br)
+* [ Site Capsula](https://capsula.com.br)
 
