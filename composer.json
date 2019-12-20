@@ -1,0 +1,29 @@
+{
+    "name": "whmcs/capsula-gateway-module",
+    "description": "Sample Third Party Payment Gateway Module for the WHMCS Billing Automation Platform",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "third party gateway module",
+        "gateway module",
+        "third party gateway",
+        "modelo de pagamento",
+        "Juno",
+        "capsula"
+    ],
+    "homepage": "http://www.whmcs.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WHMCS Development Team By Capsula",
+            "email": "server@capsula.com.br",
+            "homepage": "http://www.capsula.com.br/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@capsula.com.br",
+        "forum": "http://forums.capsula.com.br/",
+        "wiki": "http://docs.capula.com.br/"
+    }
+}
